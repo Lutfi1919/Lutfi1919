@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Luthfi Ahmad Mauludi 👋
+
+![Luthfi Ahmad](img/Header_Img.png)
 
 <!--
 **Lutfi1919/Lutfi1919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
