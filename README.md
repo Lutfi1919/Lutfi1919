@@ -11,7 +11,7 @@
 " />
 
 #### Connect With Me
-![https://instagram.com/lthfiahmdm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+![https://instagram.com/lutfiamdm](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 ) ![linkedin.com/in/luthfi-ahmad-mauludi-869b71327/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 ) -->
 <!--
