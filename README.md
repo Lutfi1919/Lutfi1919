@@ -10,10 +10,4 @@
 ![](https://streak-stats.demolab.com/?user=Lutfi1919&theme=swift&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lutfi1919&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Lutfi1919&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-[![](https://komarev.com/ghpvc/?username=Lutfi1919&icon=1&color=1)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
