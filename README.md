@@ -11,3 +11,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lutfi1919&theme=swift&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img data-importer="snake" src="https://raw.githubusercontent.com/lutfi1919/lutfi1919/snake-output/snake.svg" alt="Snake animation" />
+
